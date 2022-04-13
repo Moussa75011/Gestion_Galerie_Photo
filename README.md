@@ -23,14 +23,10 @@ Ensuite vous pouvez voyager au travers des pages a l'aide du systeme de paginati
 
 De plus vous pouvez appuyer sur le bouton "Scann" pour scanner toutes les photos du fichiers docs et les ajouter a la collection et en meme tant afficher le répértoire.  
 
-Il est possible de se connecter en tant qu'admin a l'aide du formulaire   
-
-Cela va nous permettre de débloquer la capacité de supprimer des photos  
+Il est possible de se connecter en tant qu'admin a l'aide du formulaire qui donnera ensuite le droit de débloquer la capacité de supprimer des photos  
 
 
 
-A SAVOIR :
 
-Des captures d'ecrant sont dans le dossier TP4_recudir_delect
 
 
