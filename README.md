@@ -1,5 +1,5 @@
 # Pagination-Téléverssement-récurssif  
-Création d'un systeme d'un programme en PHP perméttant le téléverssement d'images, tout en ayant une pagination ainsi qu'un bouton pour scan permettant l'affichage du répértoire du dossier docs ainsi que le téléverssement de toutes les images le contenant vers le dossier images et la bdd. De plus il est possible de supprimer les images lorseque nous sommes connécter en tant qu'admin.   
+Création d'un systeme en PHP perméttant le téléverssement d'images, de parcours de dossier et sous dossier complétés d'un système de pagination pournaviguer d'une page a l'autre de la galerie photo.Un bouton scan permet egalement l'affichage du répértoire d'un dossier dont les noms, les chemins..., s'il s'agit d'images, sur une page web. De plus il est possible de supprimer les images lorseque nous sommes connécter en tant qu'admin.   
 
 ## IMAGES
 
